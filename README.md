@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />  
+## Hi there 👋 Welcome to my <a href="https://github.com/jkerai1"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/github.svg" alt="GitHub profile and icon"></a> 
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkerai1%2Fhit-counter&count_bg=%233F4B3B&title_bg=%23F4B3B&icon=&icon_color=%23282828&title=Profile%20Views%20Since%20Nov%20%202024&edge_flat=true"/>
 <!--
