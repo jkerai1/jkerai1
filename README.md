@@ -1,9 +1,8 @@
 ## Hi there 👋 Welcome to my <a href="https://github.com/jkerai1"><img width="30" height="30" src="https://raw.githubusercontent.com/HotCakeX/HotCakeX/main/Private/Images/Socials/github.svg" alt="GitHub profile and icon"></a> 
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkerai1%2Fhit-counter&count_bg=%233F4B3B&title_bg=%23F4B3B&icon=&icon_color=%23282828&title=Profile%20Views%20Since%20Nov%20%202024&edge_flat=true"/>
 <!--
 **jkerai1/jkerai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkerai1%2Fhit-counter&count_bg=%233F4B3B&title_bg=%23F4B3B&icon=&icon_color=%23282828&title=Profile%20Views%20Since%20Nov%20%202024&edge_flat=true"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,11 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkerai1&show_icons=true&locale=en&theme=gruvbox&layout=compact&hide_border=true" alt="jkerai1" /></p>-->
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">GitHub Profile Stats 💻</summary>
   <div align="center">
     <h2 style="color: #2c3e50;">GitHub Stats</h2>
-    <details>
       <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">General</summary>
         <table align="center">
           <tr border="0">
@@ -37,8 +33,6 @@ Here are some ideas to get you started:
             </a>
           </p>
         </div>
-    </details>
-    <details>
       <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">Language</summary>
         <table align="center">
           <tr border="0">
@@ -52,5 +46,4 @@ Here are some ideas to get you started:
             </td>
           </tr>
         </table>
-    </details>
   </div>
