@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
   <div align="center">
     <h2 style="color: #2c3e50;">GitHub Stats</h2>
-      <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">General</summary>
         <table align="center">
           <tr border="0">
             <td width="50%" align="center">
@@ -33,7 +32,6 @@ Here are some ideas to get you started:
             </a>
           </p>
         </div>
-      <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">Language</summary>
         <table align="center">
           <tr border="0">
             <td width="50%" align="center"> 
