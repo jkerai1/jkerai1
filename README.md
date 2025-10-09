@@ -45,3 +45,5 @@ Here are some ideas to get you started:
           </tr>
         </table>
   </div>
+
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/fbe9b6db-3f36-4d72-bd3d-05cf9ab48fe1"><img width="30" height="35" src="https://mvp.microsoft.com/Assets/UserProfile/MVP/Badge.svg" alt="MVP profile and icon"></a>
